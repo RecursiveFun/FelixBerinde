@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelixBerinde
 - 👀 I’m interested in Mobile and Web Applications
 - 🌱 I’m currently learning Javascript and working on my BS in Software Development
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate with anyone.
 - 📫 How to reach me fberind@wgu.edu
 
 <!---
