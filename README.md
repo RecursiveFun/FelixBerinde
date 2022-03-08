@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on my BS in Software Development from Western Governors University where I spend a majority of my time studying. The rest of my time is spent with my wife and dog.
 - 💞️ I’m looking to collaborate with anyone who wants to learn and is willing to put in the effort to obtaining that goal.
 - 📫 How to reach me fberind@wgu.edu
-- 📚 Currently learning SQL and refining my HTML/CSS/JS skills.
+- 📚 Currently learning C# and refining my HTML/CSS/JS skills.
 - Some of my code is private for acedemic integrity if you would like to see it for employment purposes please reach out!
 <!---
 FelixBerinde/FelixBerinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
