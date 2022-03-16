@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelixBerinde
 - 👀 I’m interested in Mobile Application Development and Web Development.
-- 🌱 I’m currently working on my BS in Software Development from Western Governors University where I spend a majority of my time studying. The rest of my time is spent with my wife and dog.
+- 🌱 I’m currently working on my BS in Software Development from Western Governors University where I spend a majority of my time studying or working. The rest of my time is spent with my wife and dog.
 - 💞️ I’m looking to collaborate with anyone who wants to learn and is willing to put in the effort to obtaining that goal.
 - 📫 How to reach me fberind@wgu.edu
 - 📚 Currently learning C# and refining my HTML/CSS/JS skills.
